@@ -1,0 +1,10 @@
+C:\Users\OS\source\repos\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe.config
+C:\Users\OS\source\repos\MyPhotos\MyPhotos\bin\Debug\MyPhotos.exe
+C:\Users\OS\source\repos\MyPhotos\MyPhotos\bin\Debug\MyPhotos.pdb
+C:\Users\OS\source\repos\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csproj.AssemblyReference.cache
+C:\Users\OS\source\repos\MyPhotos\MyPhotos\obj\Debug\MyPhotos.Properties.Resources.resources
+C:\Users\OS\source\repos\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csproj.GenerateResource.cache
+C:\Users\OS\source\repos\MyPhotos\MyPhotos\obj\Debug\MyPhotos.csproj.CoreCompileInputs.cache
+C:\Users\OS\source\repos\MyPhotos\MyPhotos\obj\Debug\MyPhotos.exe
+C:\Users\OS\source\repos\MyPhotos\MyPhotos\obj\Debug\MyPhotos.pdb
+C:\Users\OS\source\repos\MyPhotos\MyPhotos\obj\Debug\MyPhotos.MainForm.resources
