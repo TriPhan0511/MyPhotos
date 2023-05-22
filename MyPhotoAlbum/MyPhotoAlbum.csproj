@@ -7,7 +7,7 @@
     <ProjectGuid>{E4FCE124-37D0-4A29-9D60-C8D18416D208}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MyPhotoAlbum</RootNamespace>
+    <RootNamespace>TriPhan.MyPhotoAlbum</RootNamespace>
     <AssemblyName>MyPhotoAlbum</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="PhotoAlbum.cs" />
     <Compile Include="Photograph.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
